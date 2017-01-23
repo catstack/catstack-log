@@ -85,8 +85,8 @@ module.exports = {
     }
 
     function LogLevel (level) {
-      return (a, b, c, d, e, f, g, h, j, k) => {
-        Log()[level](a, b, c, d, e, f, g, h, j, k)
+      return (...args) => {
+        Log()[level](...args)
         return true
       }
     }
