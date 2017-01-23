@@ -5,7 +5,7 @@
 exports a subset of the [`pino`](https://github.com/pinojs/pino) API.
 
 ```shell
-npm install --save ahdinosaur/catstack-log
+npm install --save catstack/catstack-log
 ```
 
 ## usage

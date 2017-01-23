@@ -19,15 +19,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ahdinosaur/catstack-log.git"
+    "url": "git+https://github.com/catstack/catstack-log.git"
   },
   "keywords": [],
   "author": "Mikey <michael.williams@enspiral.com> (http://dinosaur.is)",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/ahdinosaur/catstack-log/issues"
+    "url": "https://github.com/catstack/catstack-log/issues"
   },
-  "homepage": "https://github.com/ahdinosaur/catstack-log#readme",
+  "homepage": "https://github.com/catstack/catstack-log#readme",
   "devDependencies": {
     "dependency-check": "^2.7.0",
     "depject": "^3.1.5",
